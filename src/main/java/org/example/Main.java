@@ -28,7 +28,8 @@ public class Main {
 
     public static void main(String[] args) {
         //Aufgabe1
-        System.out.println(calculateSum(5, 5));
+        int result = calculateSum(5,5);
+        System.out.println(result);
         //Aufgabe2
         System.out.println(printCalculatedSum(5, 5));
         //Bonus1
